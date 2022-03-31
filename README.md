@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on 
-- 📫 You can reach me through my email wakolikcyndy@gmail.com or number 0790159661
+- 📫 You can reach me through my email wakolikcyndy@gmail.com or through my number 0790159661
 
 <!---
 Cynthiawakoli003/Cynthiawakoli003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
